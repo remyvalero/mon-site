@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Liens utiles</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Liens utiles</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Bibliographie</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+      <div class="container my-5">
+      <div class="col-lg-8 px-0">
+        <h2>Bibliographie</h2>
+        <p>Voici quelques indications bibliographiques qui n'ont absolument aucune visée exhaustive. Elles sont classées par ordre thématique. Je n'indique ici que quelques-uns des livres que j'ai trouvés particulièrement utiles pour certaines de mes recherches.</p>
+
+        <h4>Droit international</h4>
+        <ul>
+          <li><strong>KOSKENNIEMI (Martti)</strong>, <em>The Gentle Civilizer of Nations. The Rise and Fall of International Law 1870-1960</em>, Cambridge University Press, 2004.</li>
+          <li><strong>RYGIEL (Philippe)</strong>, <em>L'ordre des circulations ? L'Institut de droit international et la régulation des migrations (1870-1920)</em>, Éditions de la Sorbonne, 2021.</li>
+        </ul>
+
+        <h4>Droit international privé</h4>
+        <ul>
+          <li><strong>ANCEL (Bertrand)</strong>, <em>Éléments d'histoire du droit international privé</em>, Éditions Panthéon-Assas, 2017.</li>
+          <li><strong>HALPÉRIN (Jean-Louis)</strong>, <em>Entre nationalisme juridique et communauté de droit</em>, PUF, 1999.</li>
+          <li><strong>WATSON (Alan)</strong>, <em>Joseph Story and the Comity of Errors. A Case Study in Conflict of Laws</em>, University of Georgia Press, 1992.</li>
+        </ul>
+
+        <h4>Génocide</h4>
+        <ul>
+          <li><strong>Bachman (Jeffrey)</strong>, <em>The Politics of Genocide. From the Genocide Convention to the Responsibility to Protect</em>, Rutgers University Press, 2022.</li>
+          <li><strong>Dirk Moses (Anthony)</strong>, <em>The Problems of Genocide. Permanent Security and the Language of Transgression</em>, Cambridge University Press, 2021.</li>
+          <li><strong>Irvin-Erickson (Douglas)</strong>, <em>Raphaël Lemkin and the Concept of Genocide</em>, University of Pennsylvania Press, 2017.</li>
+        </ul>
+
+        <h4>Histoire du droit des biens</h4>
+        <p>Cette liste concerne spécialement mes étudiants et anciens étudiants du cours d'histoire du droit privé (droit des biens). Il s'agit d'une bibliographie indicative.</p>
+        <ul>
+          <li><strong>CASTALDO (André) et LÉVY (Jean-Philippe)</strong>, <em>Histoire du droit civil</em>, Dalloz, 2010 (2<sup>e</sup> éd.).</li>
+          <li><strong>CASTALDO (André)</strong>, "Les 'questions ridicules'. La nature juridique des esclaves de culture aux Antilles", <em>Droits</em>, 2011, 53/1, p. <a href="https://droit.cairn.info/revue-droits-2011-1-page-67?lang=fr" target="_blank" rel="noopener">67-178</a>.</li>
+          <li><strong>DEROUSSIN (David)</strong>, <em>Histoire du droit privé</em>, Ellipses, 2018 (2<sup>e</sup> éd.).</li>
+          <li><strong>HALPÉRIN (Jean-Louis)</strong>, <em>Histoire du droit des biens</em>, Economica, 2008.</li>
+          <li><strong>HALPÉRIN (Jean-Louis)</strong>, <em>Histoire du droit privé français depuis 1804</em>, PUF, 1996.</li>
+          <li><strong>PATAULT (Anne-Marie)</strong>, <em>Introduction historique au droit des biens</em>, PUF, 1989.</li>
+        </ul>
+
+        <h4>Libéralisme</h4>
+        <ul>
+          <li><strong>SCHWARTZ (Antoine)</strong>, <em>Le libéralisme caméléon. Les libéraux sous le Second Empire (1848-1870)</em>, Presses universitaires de Franche-Comté, 2022.</li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
